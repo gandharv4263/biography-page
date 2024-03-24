@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: mediumaquamarine;
+    border-bottom: 5px dotted darkcyan;
+}
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+div {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100%;
+    color:dimgray
+}
+a:link{
+    color:orangered;
+}
+a:visited{
+    color:blue;
+}
+a:hover {
+    color: grey;
+}
+ul {
+    background-color: antiquewhite;
+    border: 7px solid yellow;
+
+}
+h2{
+    text-align: center;
+
+}
